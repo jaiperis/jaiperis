@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaiperis
 - 👀 I’m interested in machine learning and other AI.
-- 🌱 I’m currently learning Python 3 and C++. I am also studying electrical engineering.
+- 🌱 I’m currently learning Python 3 and C++. I am also studying electrical engineering at UTD.
 - 📫 jperis390@gmail.com
 
 <!---
